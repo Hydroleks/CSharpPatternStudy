@@ -1,0 +1,5 @@
+S - Single responsibility - whole point is that the 1 class has only 1 thing to do and 1 thing to change.
+O - Open-Close principle - 
+L -
+I -
+D - 
