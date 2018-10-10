@@ -1,5 +1,5 @@
 S - Single responsibility - whole point is that the 1 class has only 1 thing to do and 1 thing to change.
 O - Open-Close principle - Classes should be open for extension, but closed for modification. How; use of Interfaces and Inheritance. Use of pattern(not a GoF pattern; enterprise patter: Specification pattern.)
 L - Listov Substitution - You should be able to substitute a base type for a sub type. You should always be able to upcast to a base type. Properties to virtual, then override them.
-I - Interface Segregation - 
-D - 
+I - Interface Segregation - Interfaces should be segregated so that nobody implementing new interfaces should implement functions they dont need. Instead of having 1 big interface, have lots of smaller ones.
+D - Dependancy Inversion - 
